@@ -24,6 +24,3 @@ TypeScript, JavaScript, React, Next.js, HTML y CSS.
 - [LinkedIn](https://www.linkedin.com/in/junior-quauro-434a741ab/)
 - [X](https://x.com/JuniorQuau86215)
 
-## Logro académico
-
-Superé todas las pruebas de las Olimpiadas Matemáticas UIS, llegué a la final y obtuve el segundo puesto a nivel nacional.

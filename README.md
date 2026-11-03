@@ -15,6 +15,14 @@ Como desarrollador de software, analizo problemas, diseño soluciones y construy
 
 Trabajo desde la comprensión del problema y la arquitectura hasta la interfaz, los datos, las pruebas y el lanzamiento. Tengo experiencia con TypeScript, JavaScript, React, Next.js, Node.js, APIs y bases de datos, entre otras herramientas.
 
+## Research interests / Intereses de investigación
+
+Estoy explorando la transición desde ingeniería de software hacia la **investigación empírica en seguridad y fiabilidad de sistemas de IA**. En particular, me interesa evaluar si las citas de un agente realmente respaldan sus afirmaciones, cómo detectar respuestas sin evidencia y cómo medir el comportamiento ante instrucciones adversariales en documentos recuperados.
+
+- [Research interests and engineering evidence (English)](https://quaurodev.vercel.app/research) — página propuesta en una rama de mejora; estará disponible después de integrar y desplegar el cambio.
+- Experiencia relacionada: Quauro AI / Shadow Agent (asistente de portafolio con referencias a fuentes y modo de respaldo), integraciones con Gemini y sistemas Full Stack.
+- **Estado:** línea de investigación propuesta; no afirmo haber publicado artículos científicos ni obtenido resultados experimentales.
+
 ## Contacto
 
 - [Quauro.dev en Instagram](https://www.instagram.com/quauro.dev/)
